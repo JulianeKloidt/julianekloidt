@@ -1,9 +1,67 @@
 ---
-title: "Academic CV"
+title: "CV"
 ---
 
-About this site
+My full CV can be downloaded [here](Kloidt_CV.pdf).
 
-```{r}
-1 + 1
-```
+## Education
+
+**PhD with Integrated Masters** \| Computer Science and Psychology
+
+-   Aug 2021 – present \| UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents
+
+**BSc distinguished 1st** \| Psychology with Neuroscience Specialism
+
+-   Sep 2017 - Jun 2021 \| University of Glasgow
+
+## Experience
+
+**Research Assistant**
+
+-   Aug 2021 - present \| University of Kaiserslautern-Landau (RPTU), Department of Business and Economics
+
+**Research Assistant**
+
+-   Feb 2024 - Dec 2024 \| University of Glasgow, School of Psychology and Neuroscience
+
+**Graduate Teaching Assistant**
+
+-   Jan 2023 - Jul 2024 \| University of Glasgow, School of Psychology and Neuroscience
+
+## Publications
+
+Kloidt, J., & Barsalou, L. (2024). **Establishing the Comprehensive Hierarchical construct of Eustress (CHE)**. Current Psychology, 1-16. <https://doi.org/10.1007/s12144-024-06750-7>
+
+Werner, J., Kloidt, J., & Barsalou, L. (2022). **Assessing individual motivation for consuming diverse food groups over a two-week period**. <https://osf.io/preprints/psyarxiv/4d9xq>
+
+## Grants & Awards
+
+#### 2024
+
+-   **Impact Acceleration Account**, Medical Research Council (£25,000)
+
+## Selected Presentations
+
+#### 2025
+
+-   **UK Society for Behavioural Medicine**, Annual Scientific Meeting (Oral Presentation)
+
+-   **UCL Centre for Behaviour Change**, Behaviour Change for Health and Sustainability Conference (Poster)
+
+#### 2024
+
+-   **Max Planck Institute for Human Development**, Centre for Adaptive Rationality (Invited Talk)
+
+-   **University of Edinburgh**, Symposium on Bridging AI and Psychology (Poster)
+
+-   **University of Glasgow**, Centre for Cognition, Language, and Metascience (Invited Seminar)
+
+#### 2023
+
+-   **ARC Pre-Accelerator**, Generating Sustainable Impact at Scale (Online Pitch)
+
+-   **Social AI CDT**, Annual Presentations (Poster)
+
+#### 2022
+
+-   **University of Glasgow**, Methods & Metascience Network, (Invited Seminar 2x)

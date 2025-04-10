@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -94,11 +97,26 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">My Work</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">Academic CV</span></a>
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./j.kloidt.1@research.gla.ac.uk"> <i class="bi bi-envelope-at-fill" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/julianekloidt/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/JulianeKloidt"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -136,7 +154,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My name is Juliane and this is my website.</p>
+<p><a href="JulianeKloidt.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="JulianeKloidt.png" class="img-fluid"></a></p>
+<p>I am a PhD candidate at the <a href="https://socialcdt.org/students/cohort-3-2021-2025/">UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents</a>, based at the <a href="https://www.gla.ac.uk/pgrs/julianekloidt/">University of Glasgow</a>. My PhD project on “Improving engagement with mobile health apps by understanding (mis)alignment between design elements and personal characteristics” is supervised by <a href="https://barsaloulab.org/lab-members/lawrence-barsalou/">Prof.&nbsp;Lawrence Barsalou</a>.</p>
+<p>I am working as a research assistant with <a href="https://sites.google.com/view/timkaiser/home?authuser=0">Prof.&nbsp;Tim Kaiser</a> at the <a href="https://ksw.rptu.de/en/div/business-and-economics/team/professors/prof-dr-tim-kaiser">University of Kaiserslautern-Landau (RPTU)</a> on establishing empirical benchmarks for behaviour change interventions across the domains of health, sustainability, and household finance.</p>
+<p>I also teach psychology courses for the <a href="https://www.gla.ac.uk/schools/psychologyneuroscience/staff/julianekloidt/">School of Psychology and Neuroscience (University of Glasgow)</a> at the Widening Participation Summer School.</p>
+<p>I am passionate about promoting behavior change and wellbeing combining state-of-the-art research methods with generative AI.</p>
 
 
 
@@ -562,6 +584,51 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>CC-BY-SA-4.0 (2025) Juliane Kloidt</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","loop":false});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

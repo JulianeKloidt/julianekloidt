@@ -2,4 +2,12 @@
 title: "Juliane Kloidt"
 ---
 
-My name is Juliane and this is my website.
+![](JulianeKloidt.png){.lightbox}
+
+I am a PhD candidate at the [UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents](https://socialcdt.org/students/cohort-3-2021-2025/), based at the [University of Glasgow](https://www.gla.ac.uk/pgrs/julianekloidt/).  My PhD project on “Improving engagement with mobile health apps by understanding (mis)alignment between design elements and personal characteristics” is supervised by [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/).  
+
+I am working as a research assistant with [Prof. Tim Kaiser](https://sites.google.com/view/timkaiser/home?authuser=0) at the [University of Kaiserslautern-Landau (RPTU)](https://ksw.rptu.de/en/div/business-and-economics/team/professors/prof-dr-tim-kaiser) on establishing empirical benchmarks for behaviour change interventions across the domains of health, sustainability, and household finance.  
+
+I also teach psychology courses for the [School of Psychology and Neuroscience (University of Glasgow)](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/julianekloidt/) at the Widening Participation Summer School.
+
+I am passionate about promoting behavior change and wellbeing combining state-of-the-art research methods with generative AI.
