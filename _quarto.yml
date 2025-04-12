@@ -5,17 +5,19 @@ project:
 website:
   title: "Juliane Kloidt"
   navbar:
+    left: 
+      - icon: envelope-at-fill 
+        href: mailto:j.kloidt.1@research.gla.ac.uk
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/julianekloidt/
+      - icon: github
+        href: https://github.com/JulianeKloidt
     right:
       - href: index.qmd
         text: Home
       - about.qmd
       - cv.qmd
-      - icon: envelope-at-fill 
-        href: j.kloidt.1@research.gla.ac.uk 
-      - icon: linkedin 
-        href: https://www.linkedin.com/in/julianekloidt/
-      - icon: github
-        href: https://github.com/JulianeKloidt
+
   page-footer: 
     center: "CC-BY-SA-4.0 (2025) Juliane Kloidt"
 

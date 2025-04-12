@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Juliane Kloidt",
     "section": "",
-    "text": "I am a PhD candidate at the UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents, based at the University of Glasgow. My PhD project on “Improving engagement with mobile health apps by understanding (mis)alignment between design elements and personal characteristics” is supervised by Prof. Lawrence Barsalou.\nI am working as a research assistant with Prof. Tim Kaiser at the University of Kaiserslautern-Landau (RPTU) on establishing empirical benchmarks for behaviour change interventions across the domains of health, sustainability, and household finance.\nI also teach psychology courses for the School of Psychology and Neuroscience (University of Glasgow) at the Widening Participation Summer School.\nI am passionate about promoting behavior change and wellbeing combining state-of-the-art research methods with generative AI."
+    "text": "About me\nI am a PhD candidate at the UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents, based at the University of Glasgow. My PhD project on “Thriving under challenges - how personal characteristics and situational context shape positive stress and behaviour change” is supervised by Prof. Lawrence Barsalou.\nI also work as a research assistant with Prof. Tim Kaiser at the University of Kaiserslautern-Landau (RPTU) on establishing effects of behaviour change interventions (health, sustainability, and household finance), synthesising effects of capital vs training interventions on business outcomes, and investigating time preferences.\nI enjoy teaching research methods, coding in R, and psychology classes, for the School of Psychology and Neuroscience (University of Glasgow), for instance at the Widening Participation Summer School.\n\n\nResearch Interests\nHealth behaviour change | Positive stress & well-being | Data science | Generative AI\n\n\nTechnical Skills\nCoding: R (tidyverse, ggplot2, lavaan, psych, lme4) | Python (numpy, sklearn, scipy)\nWorkflows: GitHub | Jupyter | OSF\nGenerative AI: Huggingface | OpenAI API"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "My Work",
     "section": "",
-    "text": "Publications\nPresentations\nImpact\nEngagement\n\n1 + 1\n\n[1] 2"
+    "text": "Publications\nPresentations\nImpact\nEngagement\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuliane Kloidt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html#current-academic-positions",
@@ -67,7 +67,7 @@
     "href": "cv.html#selected-presentations",
     "title": "CV",
     "section": "Selected Presentations",
-    "text": "Selected Presentations\n\n2025\n\nUK Society for Behavioural Medicine, Annual Scientific Meeting (Oral Presentation)\nUCL Centre for Behaviour Change, Behaviour Change for Health and Sustainability Conference (Poster)\n\n\n\n2024\n\nMax Planck Institute for Human Development, Centre for Adaptive Rationality (Invited Talk)\nUniversity of Edinburgh, Symposium on Bridging AI and Psychology (Poster)\nUniversity of Glasgow, Centre for Cognition, Language, and Metascience (Invited Seminar)\n\n\n\n2023\n\nARC Pre-Accelerator, Generating Sustainable Impact at Scale (Online Pitch)\nSocial AI CDT, Annual Presentations (Poster)\n\n\n\n2022\n\nUniversity of Glasgow, Methods & Metascience Network, (Invited Seminar 2x)"
+    "text": "Selected Presentations\n\n2025\n\nUK Society for Behavioural Medicine, Annual Scientific Meeting (Oral Presentation)\nUCL Centre for Behaviour Change, Behaviour Change for Health and Sustainability Conference (Poster)\n\n\n\n2024\n\nMax Planck Institute for Human Development, Centre for Adaptive Rationality (Invited Talk)\nUniversity of Edinburgh, Symposium on Bridging AI and Psychology (Poster)\nUniversity of Glasgow, Centre for Cognition, Language, and Metascience (Invited Seminar)\n\n\n\n2023\n\nARC Pre-Accelerator, Generating Sustainable Impact at Scale (Online Pitch)\nSocial AI CDT, Annual Presentations (Poster)\n\n\n\n2022\n\nUniversity of Glasgow, Methods & Metascience Network (Invited Seminar 2x)"
   },
   {
     "objectID": "cv.html#teaching",
@@ -89,5 +89,26 @@
     "title": "CV",
     "section": "Experience",
     "text": "Experience\nResearch Assistant\n\nAug 2021 - present | University of Kaiserslautern-Landau (RPTU), Department of Business and Economics\n\nResearch Assistant\n\nFeb 2024 - Dec 2024 | University of Glasgow, School of Psychology and Neuroscience\n\nGraduate Teaching Assistant\n\nJan 2023 - Jul 2024 | University of Glasgow, School of Psychology and Neuroscience"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Juliane Kloidt",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHealth Behaviour Change\nPositive Stress & Well-being\nData Science\nGenerative AI"
+  },
+  {
+    "objectID": "index.html#at-a-glance",
+    "href": "index.html#at-a-glance",
+    "title": "Juliane Kloidt",
+    "section": "At a glance",
+    "text": "At a glance\n\nResearch Interests\nHealth behaviour change | Positive stress & well-being | Data science | Generative AI"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Juliane Kloidt",
+    "section": "Overview",
+    "text": "Overview\n\nResearch Interests\nHealth behaviour change | Positive stress & well-being | Data science | Generative AI\n\n\nTechnical Skills\nCoding: R (tidyverse, ggplot2, lavaan, psych, lme4) | Python (numpy, sklearn, scipy)\nWorkflows: GitHub | Jupyter | OSF\nGenerative AI: Huggingface | OpenAI API"
   }
 ]

@@ -2,15 +2,3 @@
 title: "My Work"
 ---
 
-Publications
-
-Presentations
-
-Impact
-
-Engagement
-
-
-```{r}
-1 + 1
-```
