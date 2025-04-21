@@ -1,4 +1,9 @@
 ---
 title: "My Work"
+listing:
+  contents: posts
+  sort: "date"
+  type: default
+  categories: true
 ---
 

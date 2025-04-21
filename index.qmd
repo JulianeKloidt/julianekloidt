@@ -10,7 +10,7 @@ I am a PhD candidate at the [UKRI Centre for Doctoral Training in Socially Intel
 
 I also work as a research assistant with [Prof. Tim Kaiser](https://sites.google.com/view/timkaiser/home?authuser=0) at the [University of Kaiserslautern-Landau (RPTU)](https://ksw.rptu.de/en/div/business-and-economics/team/professors/prof-dr-tim-kaiser) on establishing effects of behaviour change interventions (health, sustainability, and household finance), synthesising effects of capital vs training interventions on business outcomes, and investigating time preferences.
 
-I enjoy teaching research methods, coding in R, and psychology classes, for the [School of Psychology and Neuroscience (University of Glasgow)](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/julianekloidt/), for instance at the Widening Participation Summer School.
+I enjoy teaching research methods, coding in R, and psychology classes, for the [School of Psychology and Neuroscience (University of Glasgow)](https://www.gla.ac.uk/pgrs/julianekloidt/), for instance at the Widening Participation Summer School.
 
 ### Research Interests
 

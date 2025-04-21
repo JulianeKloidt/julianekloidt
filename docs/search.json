@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "My Work",
     "section": "",
-    "text": "Publications\nPresentations\nImpact\nEngagement\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuliane Kloidt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "UKSBM 2025 Conference\n\n\n\n\n\n\nEngagement\n\n\n\nSynopsis of my talk\n\n\n\n\n\nMar 26, 2025\n\n\nJuliane Kloidt\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html#current-academic-positions",
@@ -110,5 +110,26 @@
     "title": "Juliane Kloidt",
     "section": "Overview",
     "text": "Overview\n\nResearch Interests\nHealth behaviour change | Positive stress & well-being | Data science | Generative AI\n\n\nTechnical Skills\nCoding: R (tidyverse, ggplot2, lavaan, psych, lme4) | Python (numpy, sklearn, scipy)\nWorkflows: GitHub | Jupyter | OSF\nGenerative AI: Huggingface | OpenAI API"
+  },
+  {
+    "objectID": "uksbm-2025.html",
+    "href": "uksbm-2025.html",
+    "title": "UKSBM Conference",
+    "section": "",
+    "text": "My Conference Recap"
+  },
+  {
+    "objectID": "posts/uksbm-2025.html",
+    "href": "posts/uksbm-2025.html",
+    "title": "UKSBM Conference",
+    "section": "",
+    "text": "My Conference Recap\nThe slides from my talk can be downloaded here."
+  },
+  {
+    "objectID": "posts/uksbm-2025.html#developing-and-validating-the-comprehensive-hierarchical-eustress-review-cher",
+    "href": "posts/uksbm-2025.html#developing-and-validating-the-comprehensive-hierarchical-eustress-review-cher",
+    "title": "UKSBM Conference",
+    "section": "",
+    "text": "For this project, my supervisor Prof. Lawrence Barsalou and I\nThe slides from my talk can be downloaded here."
   }
 ]
