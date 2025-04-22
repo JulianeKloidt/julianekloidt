@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Juliane Kloidt",
+    "section": "",
+    "text": "About me\nI am a PhD candidate at the UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents, based at the University of Glasgow. My PhD project on “Thriving under challenges - how personal characteristics and situational context shape positive stress and behaviour change” is supervised by Prof. Lawrence Barsalou.\nI also work as a research assistant with Prof. Tim Kaiser at the University of Kaiserslautern-Landau (RPTU) on establishing effects of behaviour change interventions (health, sustainability, and household finance), synthesising effects of capital vs training interventions on business outcomes, and investigating time preferences.\nI enjoy teaching research methods, coding in R, and psychology classes, for the School of Psychology and Neuroscience (University of Glasgow), for instance at the Widening Participation Summer School.\n\n\nResearch Interests\nHealth behaviour change | Positive stress & well-being | Data science | Generative AI\n\n\nTechnical Skills\nCoding: R (tidyverse, ggplot2, lavaan, psych, lme4) | Python (numpy, sklearn, scipy)\nWorkflows: GitHub | Jupyter | OSF\nGenerative AI: Huggingface | OpenAI API"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My full CV can be downloaded here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD with Integrated Masters | Computer Science and Psychology\n\nAug 2021 – present | UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents\n\nBSc distinguished 1st | Psychology with Neuroscience Specialism\n\nSep 2017 - Jun 2021 | University of Glasgow"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nResearch Assistant\n\nAug 2021 - present | University of Kaiserslautern-Landau (RPTU), Department of Business and Economics\n\nResearch Assistant\n\nFeb 2024 - Dec 2024 | University of Glasgow, School of Psychology and Neuroscience\n\nGraduate Teaching Assistant\n\nJan 2023 - Jul 2024 | University of Glasgow, School of Psychology and Neuroscience"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nKloidt, J., & Barsalou, L. (2024). Establishing the Comprehensive Hierarchical construct of Eustress (CHE). Current Psychology, 1-16. https://doi.org/10.1007/s12144-024-06750-7\nWerner, J., Kloidt, J., & Barsalou, L. (2022). Assessing individual motivation for consuming diverse food groups over a two-week period. https://osf.io/preprints/psyarxiv/4d9xq"
+  },
+  {
+    "objectID": "cv.html#grants-awards",
+    "href": "cv.html#grants-awards",
+    "title": "CV",
+    "section": "Grants & Awards",
+    "text": "Grants & Awards\n\n2024\n\nImpact Acceleration Account, Medical Research Council (£25,000)"
+  },
+  {
+    "objectID": "cv.html#selected-presentations",
+    "href": "cv.html#selected-presentations",
+    "title": "CV",
+    "section": "Selected Presentations",
+    "text": "Selected Presentations\n\n2025\n\nUK Society for Behavioural Medicine, Annual Scientific Meeting (Oral Presentation)\nUCL Centre for Behaviour Change, Behaviour Change for Health and Sustainability Conference (Poster)\n\n\n\n2024\n\nMax Planck Institute for Human Development, Centre for Adaptive Rationality (Invited Talk)\nUniversity of Edinburgh, Symposium on Bridging AI and Psychology (Poster)\nUniversity of Glasgow, Centre for Cognition, Language, and Metascience (Invited Seminar)\n\n\n\n2023\n\nARC Pre-Accelerator, Generating Sustainable Impact at Scale (Online Pitch)\nSocial AI CDT, Annual Presentations (Poster)\n\n\n\n2022\n\nUniversity of Glasgow, Methods & Metascience Network (Invited Seminar 2x)"
+  },
+  {
+    "objectID": "posts/uksbm-2025.html",
+    "href": "posts/uksbm-2025.html",
+    "title": "UKSBM 2025 Conference",
+    "section": "",
+    "text": "At the 20th Annual Scientific Meeting of the UK Society for Behavioural Medicine in Bristol, I presented one of my PhD projects, supervised by Prof. Lawrence Barsalou, titled “Developing and validating the Comprehensive Hierarchical Eustress Review (CHER)”.\n\nBackground:\nEustress is defined as the positive experience of a challenging situation. But what exactly makes facing challenging situations a good experience? Whereas we know a lot about what makes us experience stress negatively (and the consequences thereof), research on eustress is still in its infancy.\n\n\nResearch Questions:\nWith this project, we therefore tried to answer three research questions:\n\nWhat features of eustress are central to experiencing challenging situations positively? What psychometric structure best fits these features?\nHow is eustress related to distress (what we commonly refer to as stress) and psychological wellbeing?\nDo groups of individuals share similar eustress profiles?\n\n\n\nMethods:\nTo do so, we developed a novel eustress instrument: the Comprehensive Hierarchical Eustress Review (CHER). CHER is based on a novel eustress theory called the Comprehensive Hierarchical construct of Eustress (CHE aka my first PhD paper!). Reflecting the content and structure of the theoretical model, our novel eustress instrument included 47 items across 3 subscales: (1) goal-directed action (e.g., “When achieving personal goals in challenging situations, how much do you benefit from feeling productive?”), (2) momentary experience (e.g., “When experiencing challenging situations, how much do you find yourself flourishing and thriving in the moment?”), and (3) stable qualities (e.g., “When you think about yourself across the challenging situations in your life, how resilient are you?”). We evaluated CHER in a well-powered UK-adult sample (N = 260; 128 men; mean age = 44.60 years) using confirmatory factor analyses, validity tests, Spearman correlations, and latent profile analysis.\n\n\nRQ1: Psychometric structure of eustress\nTo assess the psychometric structure of eustress, we conducted a series of confirmatory factor analyses: (1) single-factor model, (2) three correlated-factors model reflecting the subscales of CHER, and (3) bifactor model combining the previous models. If you’re like me and you are a bit confused by all these models, perhaps you find it useful to think about them in terms of intelligence. Model 1 proposes that there is a general intelligence (IQ). Model 2 proposes that general intelligence is not really a thing and we should instead measure intelligence across different areas (e.g., emotional intelligence, musical intelligence, mathematical intelligence…). Model 3 offers a compromise proposing that, yes, there is such thing as general intelligence but people also differ meaningfully across domain-specific types of intelligence.\nFor each model, we also tested whether we really need all 47 items of the instrument to measure eustress (after all 47 questions is quite a lot). Perhaps some items are less relevant or even unrelated to eustress? We therefore removed all items with a main factor loading &lt; |.50| one item at a time. In other words, we only kept items for which the factor explained at least 25%. We then selected the best-performing model that offered reasonable model fit and conceptual interpretability.\nThe best performing model was the bifactor model keeping 35 out of 47 items. The bifactor model explained 52.17% of total variance and had acceptable model fit, CFI = .881, TLI = .865, RMSEA (90% CI) = .069 (.064 - .075). This suggests that eustress, as measured with the CHER instrument, is best explained by a general factor and three specific factors (~ subscales).\nTo get an idea of the features that are central to eustress, we visualised the pairwise Spearman correlations between all items of CHER. The figure below shows the resulting network plot. Nodes depict CHER’s items whereas edges show pairwise Spearman correlations &gt; .30 (all correlations were positive). Grey nodes show excluded items. Coloured nodes depict CHER’s subscales with the dark-blue pointing out that all these items also loaded onto a general factor.\n\nWhile being being pretty, this plot also suggests that items from the same subscale cluster together (supporting the structure of the questionnaire) and that the core of eustress (the center of the plot) contains items from all three subscales. This suggests that, in order to measure eustress comprehensively, we need to capture it as a goal-directed action, momentary experience, AND stable quality. Of the few existing eustress measures, most items focus on successful goal pursuit only…\n\n\nRQ2:\n\n\nRQ3:\n\n\nSo what?\nThe Comprehensive Hierarchical Eustress Review (CHER) is the first psychometric instrument to comprehensively assess positive experiences across challenging situations in a general UK adult population. Establishing the psychometric structure of eustress strongly supports its theorized sources: goal-directed action, momentary experience, and stable qualities. Further research may establish whether promoting eustress causally increases wellbeing and causally decreases distress. Identifying clusters of individuals with distinct eustress profiles can support developing tailored policy interventions for thriving under challenges.\nWant to know more? Slides | LinkedIn post"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Work",
+    "section": "",
+    "text": "UKSBM Conference\n\n\n\n\n\n\nEngagement\n\n\n\nSynopsis of my talk\n\n\n\n\n\nMar 26, 2025\n\n\nJuliane Kloidt\n\n\n\n\n\n\nNo matching items"
+  }
+]
