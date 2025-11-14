@@ -1,6 +1,6 @@
 ---
-title: "UKSBM 2025 Conference"
-description: "Synopsis of my talk"
+title: "What shapes our positive experiences of challenging situations?"
+description: "What shapes our positive experiences of challenging situations?"
 author: "Juliane Kloidt"
 date: "3/26/2025"
 categories:
@@ -9,7 +9,7 @@ categories:
 
 ![](UKSBM-picture.png){.lightbox}
 
-At the 20th Annual Scientific Meeting of the UK Society for Behavioural Medicine in Bristol, I presented one of my PhD projects, supervised by Prof. Lawrence Barsalou, titled **"Developing and validating the Comprehensive Hierarchical Eustress Review (CHER)"**.
+I presented one of my PhD projects, supervised by [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/), titled **"Developing and validating the Comprehensive Hierarchical Eustress Review (CHER)"** at the 20th Annual Scientific Meeting of the [UK Society for Behavioural Medicine](https://uksbm.org.uk) in Bristol. Here's the summary of my talk:
 
 #### Background:
 
@@ -42,9 +42,15 @@ To get an idea of the features that are central to eustress, we visualised the p
 
 While being being pretty, this plot also suggests that items from the same subscale cluster together (supporting the structure of the questionnaire) and that the core of eustress (the center of the plot) contains items from all three subscales. This suggests that, in order to measure eustress comprehensively, we need to capture it as a goal-directed action, momentary experience, AND stable quality. Of the few existing eustress measures, most items focus on successful goal pursuit only...
 
-#### RQ2:
+#### RQ2: How is eustress related to distress and to psychological wellbeing?
+To find out how eustress relates to distress and wellbeing, we computed Spearman correlations between participants' factors scores on the general eustress factor from the bifactor model, the Perceived Stress Scale (distress; Cohen et al., 1983), and the European Social Survey Module on Wellbeing (ESS Wellbeing; Huppert & So, 2013).
 
-#### RQ3:
+Interestingly, eustress correlated most strongly with psychological wellbeing (*r* = .62, *p* < .005), indicating that individuals’ positive experiences in challenging situations may be similar to their positive experience in non-challenging situations. The negative correlation between general eustress and the PSS was moderate (*r* = -.50, *p* < .005) highlighting that distress and eustress are related but not exact opposites of another. Otherwise, the correlation would have been closer to -1.
+
+#### RQ3: Identifying individuals with distinct eustress profiles
+
+
+![](UKSBM-fig2.png){.lightbox}
 
 #### So what?
 The Comprehensive Hierarchical Eustress Review (CHER) is the first psychometric instrument to comprehensively assess positive experiences across challenging situations in a general UK adult population. Establishing the psychometric structure of eustress strongly supports its theorized sources: goal-directed action, momentary experience, and stable qualities. Further research may establish whether promoting eustress causally increases wellbeing and causally decreases distress. Identifying clusters of individuals with distinct eustress profiles can support developing tailored policy interventions for thriving under challenges.
