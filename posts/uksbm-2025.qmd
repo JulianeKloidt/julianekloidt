@@ -1,6 +1,5 @@
 ---
 title: "What shapes our positive experiences of challenging situations?"
-description: "What shapes our positive experiences of challenging situations?"
 author: "Juliane Kloidt"
 date: "3/26/2025"
 categories:

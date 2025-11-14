@@ -8,13 +8,21 @@ My full CV can be downloaded [here](Kloidt_CV.pdf).
 
 **PhD with Integrated Masters** \| Computer Science and Psychology
 
--   Aug 2021 – present \| UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents
+-   Aug 2021 – Oct 2025 \| UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents
 
 **BSc distinguished 1st** \| Psychology with Neuroscience Specialism
 
 -   Sep 2017 - Jun 2021 \| University of Glasgow
 
 ## Experience
+
+**Independent Contractor**
+
+-   May 2025 - present \| Princeton University, Behavioral Science for Policy Lab
+
+**Translational Researcher**
+
+-   Aug 2021 - present \| University of Glasgow, Translational Research Initiative
 
 **Research Assistant**
 
@@ -26,13 +34,21 @@ My full CV can be downloaded [here](Kloidt_CV.pdf).
 
 **Graduate Teaching Assistant**
 
--   Jan 2023 - Jul 2024 \| University of Glasgow, School of Psychology and Neuroscience
+-   Jan 2023 - Jul 2025 \| University of Glasgow, School of Psychology and Neuroscience
 
 ## Publications
 
-Kloidt, J., & Barsalou, L. (2024). **Establishing the Comprehensive Hierarchical construct of Eustress (CHE)**. Current Psychology, 1-16. <https://doi.org/10.1007/s12144-024-06750-7>
+**Kloidt, J.**, & Barsalou, L. (2024). *Establishing the Comprehensive Hierarchical construct of Eustress (CHE)*. Current Psychology, 1-16. <https://doi.org/10.1007/s12144-024-06750-7>
 
-Werner, J., Kloidt, J., & Barsalou, L. (2022). **Assessing individual motivation for consuming diverse food groups over a two-week period**. <https://osf.io/preprints/psyarxiv/4d9xq>
+**Kloidt, J.**, & Barsalou, L. (2025). *Developing and evaluating the Comprehensive Hierarchical Eustress Review (CHER)*. PsyArXiv. <https://doi.org/10.31234/osf.io/3wmhs_v1>
+
+**Kloidt, J.**, & Barsalou, L. (2025). *Coping, fulfilment, and successful outcomes: Assessing sources of eustress across real-life challenging situations.* PsyArXiv. <https://doi.org/10.31234/osf.io/m8txb_v1>
+
+**Kloidt, J.**, Balaya, M., & Barsalou, L. (2025). *Establishing feature profiles of threatening and challenging situations generated with AI.* PsyArXiv. <https://doi.org/10.31234/osf.io/g4m7u_v1>
+
+Kaiser, T., **Kloidt, J.**, Mata, J., & Hertwig, R. (2025). *A Meta-Meta-Analysis of Behavior Change Interventions: Two Tales of Behavior Change* (No. 11863). CESifo Working Paper.
+
+Werner, J., **Kloidt, J.**, & Barsalou, L. (2022). *Assessing individual motivation for consuming diverse food groups over a two-week period*. PsyArXiv. <https://osf.io/preprints/psyarxiv/4d9xq>
 
 ## Grants & Awards
 
@@ -40,9 +56,19 @@ Werner, J., Kloidt, J., & Barsalou, L. (2022). **Assessing individual motivation
 
 -   Impact Acceleration Account, Medical Research Council (£25,000)
 
+#### 2021
+
+-   PhD Scholarship, UK Research and Innovation (£95,000)
+
+#### 2018
+
+-   Undergraduate Scholarship, German Scholarship Foundation (€21,000)
+
 ## Selected Presentations
 
 #### 2025
+
+-   European Health Psychology Society, Annual Scientific Meeting (Oral Presentation)
 
 -   UK Society for Behavioural Medicine, Annual Scientific Meeting (Oral Presentation)
 
@@ -64,4 +90,4 @@ Werner, J., Kloidt, J., & Barsalou, L. (2022). **Assessing individual motivation
 
 #### 2022
 
--   University of Glasgow, Methods & Metascience Network (Invited Seminar 2x)
+-   University of Glasgow, Methods & Metascience Network (2x Invited Seminar)

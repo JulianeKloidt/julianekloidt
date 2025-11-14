@@ -1,0 +1,51 @@
+---
+title: "Establishing a Comprehensive Hierarchical construct of Eustress (CHE)"
+author: "Juliane Kloidt"
+date: "9/18/2024"
+categories:
+  - Research
+---
+
+In recent years, **eustress**—the positive experience of a challenging situation—has attracted growing attention across multiple research areas. Despite this interest, the concept remains fragmented. Different scholars have defined, measured, and manipulated eustress in inconsistent ways, making it difficult to compare findings or build a coherent body of knowledge.
+
+Recognizing this gap, [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/) and I set out to **develop a unified and empirically grounded construct** of eustress. Our goal was not to impose our own theoretical preferences, but to synthesize what the literature itself already suggests.
+
+To do this, we reviewed **80 theoretical, empirical, interventional, and psychometric articles** related to eustress. From these sources, we extracted 57 distinct features that authors had associated with eustress. We then organized and interpreted these features to create what we term the **Comprehensive Hierarchical construct of Eustress (CHE)**.
+
+According to CHE, eustress arises from three overarching sources:
+
+1.  **Successful goal-directed action.** This includes feelings and processes associated with competence, progress, and effective effort.
+
+2.  **Experiencing the moment as enjoyable, fulfilling, or meaningful.** These are states in which individuals find engagement, intrinsic reward, or personal significance.
+
+3.  **Stable individual qualities that predispose people to experience eustress.** Traits such as optimism, resilience, or self-efficacy that make eustress more likely to occur.
+
+Within each source, CHE specifies multiple facets, which together organize the full set of 57 features we identified.
+
+![](CHE-fig1.png){.lightbox}
+
+We also conducted bibliometric analyses to determine which hierarchical elements of CHE have been emphasized most heavily in existing scholarship.
+
+Taken together, our results indicate that eustress cannot be captured by a single, narrow definition. Instead, it functions as a family resemblance structure—a cluster of statistically related states that emerge under conditions of successful goal pursuit and fulfilling momentary experience. Over time, repeatedly experiencing these states appears to help individuals develop the more trait-like capacities that promote eustress in future challenging situations. Notably, these capacities strongly overlap with well-established components of wellbeing, suggesting that wellbeing itself may support the emergence of eustress when individuals encounter demanding circumstances.
+
+![](CHE-fig2.png){.lightbox}
+
+#### So what?
+
+Through CHE, we aim to provide researchers with a more precise, integrative framework for studying eustress and advancing the field in a cumulative and coherent manner.
+
+This matters for several reasons:
+
+-   **Clarity enables better science.** A unified construct reduces confusion, allowing researchers to design more consistent studies, compare results across fields, and build theory that actually accumulates.
+
+-   **Interventions can become more targeted.** By identifying the specific sources and facets of eustress, CHE helps practitioners design programs that intentionally cultivate the conditions in which eustress is most likely to occur.
+
+-   **It bridges stress research and wellbeing science.** CHE highlights how eustress and wellbeing feed into one another, suggesting new ways to support people in challenging environments—from workplaces to educational settings to clinical contexts.
+
+-   **It reframes challenge as opportunity.** Understanding eustress not as a single feeling but as a family of positive, adaptive responses opens the door to a richer, more nuanced understanding of how people thrive under pressure.
+
+#### Reference
+
+Kloidt, J., & Barsalou, L. (2024). **Establishing the Comprehensive Hierarchical construct of Eustress (CHE)**. Current Psychology, 1-16. <https://doi.org/10.1007/s12144-024-06750-7>
+
+**Want to know more?** [Open-Access Paper](https://link.springer.com/article/10.1007/s12144-024-06750-7) \| [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7249781580750032897/)

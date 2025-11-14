@@ -8,18 +8,23 @@ title: "Juliane Kloidt"
 
 I am a PhD candidate at the [UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents](https://socialcdt.org/students/cohort-3-2021-2025/), based at the [University of Glasgow](https://www.gla.ac.uk/pgrs/julianekloidt/). My PhD project on “Thriving under challenges – establishing individual and situational influences on eustress” is supervised by [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/).
 
+While pursuing my doctoral research, I have gained additional professional experiences:
+
+I work as an independent contractor with [Dr. Sandra Geiger](https://psych.princeton.edu/people/sandra-geiger), at [Princeton University](https://elke-u-weber.com/en/elke-u-weber/labs-and-centers/bspl/) on forecasting the effectiveness of social norm interventions on the support of climate change policies with large language models.
+
 I also work as a research assistant with [Prof. Tim Kaiser](https://sites.google.com/view/timkaiser/home?authuser=0) at the [University of Kaiserslautern-Landau (RPTU)](https://ksw.rptu.de/en/div/business-and-economics/team/professors/prof-dr-tim-kaiser) on establishing effects of behaviour change interventions (health, sustainability, and household finance), synthesising effects of capital vs training interventions on business outcomes, and investigating time preferences.
 
-I enjoy teaching research methods, coding in R, and psychology classes, for the [School of Psychology and Neuroscience (University of Glasgow)](https://www.gla.ac.uk/pgrs/julianekloidt/), for instance at the Widening Participation Summer School.
+I enjoyed teaching research methods, coding in R, and psychology classes, for the [School of Psychology and Neuroscience (University of Glasgow)](https://www.gla.ac.uk/pgrs/julianekloidt/), for instance at the Widening Participation Summer School.
 
 ### Research Interests
 
-Health behaviour change \| Positive stress & well-being \| Data science \| Generative AI
+Data science \| Generative AI \| Health psychology \| Positive stress & well-being
 
 ### Technical Skills
 
-**Coding:** R (tidyverse, ggplot2, lavaan, psych, lme4) \| Python (numpy, sklearn, scipy)
+**Coding:** R (tidyverse, ggplot2, shiny, quarto) \| Python (numpy, sklearn, scipy) \| MS Excel
 
-**Workflows:** GitHub \| Jupyter \| OSF
+**Workflows:** GitHub \| Jupyter
 
-**Generative AI:** Huggingface \| OpenAI API
+**Generative AI:** Huggingface \| OpenAI
+

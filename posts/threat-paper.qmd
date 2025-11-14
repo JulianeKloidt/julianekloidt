@@ -1,0 +1,49 @@
+---
+title: "Establishing feature profiles of threatening and challenging situations generated with AI"
+author: "Juliane Kloidt"
+date: "10/10/2025"
+categories:
+  - Research
+---
+
+People encounter many kinds of difficult situations in daily life—from performance evaluations to interpersonal conflicts—and these situations often trigger stress responses. Yet surprisingly little research has mapped out **what exactly makes a situation feel threatening or challenging**, or how different situational features combine to shape these responses. Without this foundation, it is difficult to build accurate theories of stress or to design context-sensitive interventions.
+
+To address this gap, [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/), Monika Balaya, and I conducted a **pre-registered study** aimed at systematically **characterizing the features of challenging situations**. In the first step, we used an **open-source large language model (LLM)** to generate a diverse set of **20 situations** that capture common stressors faced by UK adults—for example, “Give a public speech in front of a large audience.”
+
+Next, **81 UK adults** evaluated each situation according to threat, challenge, and eight theory-derived features such as intrinsic difficulty. By aggregating their responses, we created a **10-dimensional feature profile for each situation**.
+
+Our analyses revealed several notable findings:
+
+-   **The feature profiles were highly reliable**, indicating that people agree on the core properties of these situations.
+
+-   Across the set, situations tended to evoke **low threat and moderate challenge**, but with meaningful variation that allowed comparisons.
+
+-   Surprisingly, the **eight situational features correlated similarly** with both threat and challenge. Rather than forming two opposing patterns—as some theories might predict—they each explained substantial variance in both constructs.
+
+-   Using **unsupervised clustering**, we identified four coherent groups of situations, each representing a distinct way that threat and challenge show up in everyday life.
+
+We also evaluated whether an open-source LLM could generate judgments that match human evaluations. Although its average feature ratings resembled human data, its performance varied widely across situations, and importantly, it **failed to reproduce the structural relationships**—such as the inter-feature correlations—that we observed in human judgments.
+
+#### So what?
+
+These findings advance our understanding of situational features underlying threat and challenge, while illustrating the potential and current limitations of LLMs as tools for psychological research.
+
+Here’s why this matters:
+
+-   **It provides a foundational framework for stress research.** By identifying the specific situational features that drive threat and challenge responses, this work helps refine theories that have long lacked systematic empirical grounding.
+
+-   **It enables better situational design in applied settings.** Organizations, educators, clinicians, and policymakers can use these feature profiles to better understand which aspects of situations make them stressful—and how to adjust them when appropriate.
+
+-   **It moves the field toward standardization.** The normed set of 20 situations offers a shared tool for future research, making it easier to compare findings across studies and build cumulative knowledge.
+
+-   **It highlights complex patterns in how threat and challenge emerge.** The discovery that the eight features predict both constructs similarly challenges simple models and encourages more nuanced theorizing.
+
+-   **It clarifies what LLMs can(not) do.** By showing that LLMs may match human judgments at the surface level but fail to capture deeper structure, this work sets realistic expectations for their use in psychological science.
+
+In summary, this study offers both a detailed map of how stressful situations are structured and a methodological contribution that can guide future research at the intersection of psychology and AI.
+
+#### Reference
+
+Kloidt, J., Balaya, M., & Barsalou, L. (2025). **Establishing feature profiles of threatening and challenging situations generated with AI.** PsyArXiv. <https://doi.org/10.31234/osf.io/g4m7u_v1>
+
+**Want to know more?** [Poster]() \| [Preprint](https://osf.io/preprints/psyarxiv/g4m7u_v1)

@@ -1,0 +1,57 @@
+---
+title: "Coping, fulfilment, and successful outcomes: Assessing sources of eustress across real-life challenging situations"
+author: "Juliane Kloidt"
+date: "10/10/2025"
+categories:
+  - Research
+---
+
+Understanding why people experience eustress—the positive experience of a challenging situation—requires more than identifying who tends to feel it. It also requires measuring the processes that shape eustress in specific moments. Without capturing these situational dynamics, attempts to promote eustress in real-world settings (like workplaces, classrooms, or clinical environments) risk being incomplete or ineffective.
+
+To address this, [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/) and I conducted a **pre-registered study using the Situated Assessment Method**, which allows us to examine how people respond to realistic, well-characterized situations. We asked **251 adults in the UK** to judge how much eustress they would experience in **20 previously evaluated challenging situations** (e.g., “Give a public speech in front of a large audience”). Alongside these judgments, participants rated **nine key psychological processes** drawn from the Comprehensive Hierarchical construct of Eustress (CHE), including coping ability, fulfilment, and successful outcomes.
+
+Participants also completed **trait-level measures**: their typical experiences of eustress and distress, and their stress mindsets (whether they see stress as helpful or harmful).
+
+Our results revealed a highly nuanced picture:
+
+-   **People differ reliably from one another** in how much eustress they experience.
+
+-   **Situations themselves matter a great deal**. Some consistently elicit more eustress than others.
+
+-   **Individual × situation interactions were large**, meaning that different people respond to the same situation in surprisingly different ways.
+
+The nine psychological processes were strongly related to situational eustress: in individual-level regressions, they explained a **median of 83% of the variance** in eustress judgments.
+
+![](SAM-fig1.png){.lightbox}
+
+When we averaged participants’ eustress responses across situations, these individual scores correlated with trait eustress (CHER-Qual) and with a “stress-is-enhancing” mindset (SMM), but not with trait distress (PSS-10), underscoring that eustress and distress are not simply opposites.
+
+![](SAM-fig2.png){.lightbox}
+
+Finally, exploratory factor analyses at both situational and trait levels revealed a dominant general factor across the influential processes. This factor strongly tracked participants’ eustress judgments, suggesting that a shared underlying mechanism may organize how people appraise and respond to challenging situations.
+
+![](SAM-fig3.png){.lightbox}
+
+#### So what?
+
+Our findings align with existing theories of stress, contrast different types of eustress measurement, and provide rich descriptive profiles for personalized and context-sensitive interventions to foster eustress when desirable.
+
+This work has several important implications:
+
+-   **It brings precision to eustress measurement.** By showing how situational processes drive eustress moment-by-moment, we move beyond static trait measures and toward assessments that capture real psychological dynamics.
+
+-   **It highlights individual–situation interplay.** The same challenge can be motivating for one person and overwhelming for another. Understanding these patterns supports more personalized approaches to stress management.
+
+-   **It clarifies what truly predicts eustress.** The nine CHE-based processes explain most of the variation in eustress experiences, offering clear targets for interventions—for example, enhancing coping resources or strengthening fulfilment.
+
+-   **It separates eustress from distress.** The absence of a relationship with trait distress reinforces that eustress is not simply “low distress,” but a distinct and positive mode of engaging with challenge.
+
+-   **It guides applied practice.** Whether in organizations, schools, or clinical settings, interventions can now be designed to fit both the person and the situation, making efforts to cultivate eustress more effective.
+
+In short, this study provides a detailed and scientifically grounded map of how eustress arises in real-life challenges—and offers the tools needed to foster it intentionally and precisely.
+
+#### Reference
+
+Kloidt, J., & Barsalou, L. (2025). **Coping, fulfilment, and successful outcomes: Assessing sources of eustress across real-life challenging situations.** PsyArXiv. <https://doi.org/10.31234/osf.io/m8txb_v1>
+
+**Want to know more?** [Slides](Juliane-Kloidt-EHPS-2025-slides.pdf) \| [Preprint](https://osf.io/preprints/psyarxiv/m8txb_v1)
