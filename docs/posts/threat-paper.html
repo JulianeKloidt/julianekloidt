@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -173,6 +176,7 @@ ul.task-list li input[type="checkbox"] {
 <p>People encounter many kinds of difficult situations in daily life—from performance evaluations to interpersonal conflicts—and these situations often trigger stress responses. Yet surprisingly little research has mapped out <strong>what exactly makes a situation feel threatening or challenging</strong>, or how different situational features combine to shape these responses. Without this foundation, it is difficult to build accurate theories of stress or to design context-sensitive interventions.</p>
 <p>To address this gap, <a href="https://barsaloulab.org/lab-members/lawrence-barsalou/">Prof.&nbsp;Lawrence Barsalou</a>, Monika Balaya, and I conducted a <strong>pre-registered study</strong> aimed at systematically <strong>characterizing the features of challenging situations</strong>. In the first step, we used an <strong>open-source large language model (LLM)</strong> to generate a diverse set of <strong>20 situations</strong> that capture common stressors faced by UK adults—for example, “Give a public speech in front of a large audience.”</p>
 <p>Next, <strong>81 UK adults</strong> evaluated each situation according to threat, challenge, and eight theory-derived features such as intrinsic difficulty. By aggregating their responses, we created a <strong>10-dimensional feature profile for each situation</strong>.</p>
+<p><a href="THREAT-fig1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="THREAT-fig1.png" class="img-fluid"></a></p>
 <p>Our analyses revealed several notable findings:</p>
 <ul>
 <li><p><strong>The feature profiles were highly reliable</strong>, indicating that people agree on the core properties of these situations.</p></li>
@@ -180,8 +184,9 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Surprisingly, the <strong>eight situational features correlated similarly</strong> with both threat and challenge. Rather than forming two opposing patterns—as some theories might predict—they each explained substantial variance in both constructs.</p></li>
 <li><p>Using <strong>unsupervised clustering</strong>, we identified four coherent groups of situations, each representing a distinct way that threat and challenge show up in everyday life.</p></li>
 </ul>
+<p><a href="THREAT-fig2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="THREAT-fig2.png" class="img-fluid"></a></p>
 <p>We also evaluated whether an open-source LLM could generate judgments that match human evaluations. Although its average feature ratings resembled human data, its performance varied widely across situations, and importantly, it <strong>failed to reproduce the structural relationships</strong>—such as the inter-feature correlations—that we observed in human judgments.</p>
-<p>Together, these findings offer a structured map of the features that underlie threat and challenge in daily life, while also showing the promise and current shortcomings of LLMs as tools for psychological research.</p>
+<p><a href="THREAT-fig3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="THREAT-fig3.png" class="img-fluid"></a></p>
 <section id="so-what" class="level4">
 <h4 class="anchored" data-anchor-id="so-what">So what?</h4>
 <p>These findings advance our understanding of situational features underlying threat and challenge, while illustrating the potential and current limitations of LLMs as tools for psychological research.</p>
@@ -638,6 +643,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

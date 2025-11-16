@@ -12,6 +12,8 @@ To address this gap, [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-membe
 
 Next, **81 UK adults** evaluated each situation according to threat, challenge, and eight theory-derived features such as intrinsic difficulty. By aggregating their responses, we created a **10-dimensional feature profile for each situation**.
 
+![](THREAT-fig1.png){.lightbox}
+
 Our analyses revealed several notable findings:
 
 -   **The feature profiles were highly reliable**, indicating that people agree on the core properties of these situations.
@@ -22,7 +24,11 @@ Our analyses revealed several notable findings:
 
 -   Using **unsupervised clustering**, we identified four coherent groups of situations, each representing a distinct way that threat and challenge show up in everyday life.
 
+![](THREAT-fig2.png){.lightbox}
+
 We also evaluated whether an open-source LLM could generate judgments that match human evaluations. Although its average feature ratings resembled human data, its performance varied widely across situations, and importantly, it **failed to reproduce the structural relationships**—such as the inter-feature correlations—that we observed in human judgments.
+
+![](THREAT-fig3.png){.lightbox}
 
 #### So what?
 

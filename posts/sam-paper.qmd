@@ -26,11 +26,9 @@ The nine psychological processes were strongly related to situational eustress: 
 
 When we averaged participants’ eustress responses across situations, these individual scores correlated with trait eustress (CHER-Qual) and with a “stress-is-enhancing” mindset (SMM), but not with trait distress (PSS-10), underscoring that eustress and distress are not simply opposites.
 
-![](SAM-fig2.png){.lightbox}
-
 Finally, exploratory factor analyses at both situational and trait levels revealed a dominant general factor across the influential processes. This factor strongly tracked participants’ eustress judgments, suggesting that a shared underlying mechanism may organize how people appraise and respond to challenging situations.
 
-![](SAM-fig3.png){.lightbox}
+![](SAM-fig2.png){.lightbox}
 
 #### So what?
 

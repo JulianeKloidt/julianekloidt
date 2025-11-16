@@ -1,0 +1,45 @@
+---
+title: "Developing and evaluating the Comprehensive Hierarchical Eustress Review (CHER)"
+author: "Juliane Kloidt"
+date: "09/18/2025"
+categories:
+  - Research
+---
+
+Eustress—the positive experience of a challenging situation—has become an important topic in psychological research. Yet the field still lacks clarity on several key questions: Which features truly define eustress? How should these features be organized psychometrically? How does eustress relate to distress and wellbeing? And can individuals be meaningfully grouped into different eustress profiles?
+
+To address these questions, **we developed a new measurement instrument: the Comprehensive Hierarchical Eustress Review (CHER)**. CHER is grounded in our recently proposed **Comprehensive Hierarchical construct of Eustress (CHE)**—a model that identifies three major sources of eustress:
+
+1.  Goal-directed action (progress, competence, effective effort)
+
+2.  Momentary experience (enjoyment, fulfilment, meaningful engagement)
+
+3.  Stable individual qualities (optimism, resilience, self-efficacy)
+
+Mirroring CHE, CHER contains 47 items representing the 47 literature-derived features of eustress, organized into three subscales corresponding to CHE’s sources.
+
+To evaluate CHER and explore the structure of eustress, we administered it to **260 UK adults** in a well-powered study. Using confirmatory factor analyses, we found that **eustress is best represented by a bifactor structure**—meaning it is both unidimensional (with a strong general eustress factor) and multidimensional (with meaningful subscale-specific variance). Items from all three sources contributed robustly to the central construct.
+
+![](CHER-fig1.png){.lightbox}
+
+The final model displayed strong psychometric properties, including good reliability and item discrimination. In terms of external validity, eustress correlated negatively with distress and positively with wellbeing, supporting its conceptual distinctiveness and adaptive function.
+
+Using latent profile analysis, we also identified four distinct eustress profiles—groups of individuals who differ in their typical experiences of goal-directed eustress, momentary eustress, and trait-like capacities. These profiles were further associated with meaningful differences in sociodemographic factors and personality traits.
+
+![](CHER-fig2.png){.lightbox}
+
+#### So what?
+
+This research has theoretical, empirical, and interventional implications for future work on the generation of positive experiences in challenging situations:
+
+-   **It offers the most comprehensive measure of eustress to date.** CHER captures the full complexity of eustress—its core features, its structure, and its multiple sources—enabling more precise research and theory development.
+
+-   **It clarifies the psychometric structure of eustress.** Showing that eustress is best represented by a bifactor model resolves long-standing debates about whether it is a single construct or a cluster of related ones—demonstrating that it is, in fact, both.
+
+-   **It strengthens the distinction between eustress and distress.** By documenting strong links with wellbeing and inverse links with distress, CHER confirms that eustress is not merely the absence of negative stress but a genuine positive psychological state.
+
+-   **It uncovers meaningful individual differences.** The four latent profiles illustrate that people differ not only in how much eustress they experience but in the specific *ways* they experience it—opening doors for personalized intervention.
+
+-   **It provides actionable tools for applied settings.** Practitioners seeking to foster positive responses to challenge—in workplaces, schools, sports, or therapy—can use CHER profiles and subscale scores to tailor strategies to individuals’ needs.
+
+**Want to know more?** [Slides](Juliane-Kloidt-UKSBM-2025-Slides.pdf) \| [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7311063202564300800/) \| [Preprint](https://osf.io/preprints/psyarxiv/3wmhs_v1)
