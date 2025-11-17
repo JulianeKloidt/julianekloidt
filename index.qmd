@@ -16,15 +16,15 @@ I also work as a research assistant with [Prof. Tim Kaiser](https://sites.google
 
 I enjoyed teaching research methods, coding in R, and psychology classes, for the [School of Psychology and Neuroscience (University of Glasgow)](https://www.gla.ac.uk/pgrs/julianekloidt/), for instance at the Widening Participation Summer School.
 
-### Research Interests
+### Interests
 
-Data science \| Generative AI \| Health psychology \| Stress & Well-being
+Data science \| Generative AI \| Commercialisation \| Stress & Well-being \| Financial Literacy
 
 ### Technical Skills
 
-**Coding:** R (tidyverse, ggplot2, shiny, quarto) \| Python (numpy, sklearn, scipy) \| MS Excel
+**Coding:** R (tidyverse, shiny, quarto) \| Python (numpy, scipy, sklearn)
 
 **Workflows:** GitHub \| Jupyter
 
-**Generative AI:** Huggingface \| OpenAI
+**Generative AI:** OpenAI \| Huggingface
 

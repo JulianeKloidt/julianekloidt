@@ -4,37 +4,41 @@ title: "CV"
 
 My full CV can be downloaded [here](Kloidt_CV.pdf).
 
+## Professional Experience
+
+**Independent Contractor** \| Princeton University
+
+-   May 2025 - present \| Behavioral Science for Policy Lab
+
+**Research Assistant** \| University of Kaiserslautern-Landau (RPTU)
+
+-   Aug 2021 - present \| Department of Business and Economics
+
+**Applied Researcher** \| Glasgow University
+
+-   Aug 2021 - Nov 2025 \| College of Medical, Veterinary, and Life Sciences
+
+**Graduate Teaching Assistant** \| University of Glasgow
+
+-   Jan 2023 - Jul 2025 \| School of Psychology and Neuroscience
+
+**Research Assistant** \| University of Glasgow
+
+-   Feb 2024 - Dec 2024 \| School of Psychology and Neuroscience
+
 ## Education
 
 **PhD with Integrated Masters** \| Computer Science and Psychology
 
 -   Aug 2021 – Oct 2025 \| UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents
 
+-   Scholarships: UK Research and Innovation (~£100K) with a 9.6% acceptance rate
+
 **BSc distinguished 1st** \| Psychology with Neuroscience Specialism
 
 -   Sep 2017 - Jun 2021 \| University of Glasgow
 
-## Experience
-
-**Independent Contractor**
-
--   May 2025 - present \| Princeton University, Behavioral Science for Policy Lab
-
-**Translational Researcher**
-
--   Aug 2021 - present \| University of Glasgow, Translational Research Initiative
-
-**Research Assistant**
-
--   Aug 2021 - present \| University of Kaiserslautern-Landau (RPTU), Department of Business and Economics
-
-**Research Assistant**
-
--   Feb 2024 - Dec 2024 \| University of Glasgow, School of Psychology and Neuroscience
-
-**Graduate Teaching Assistant**
-
--   Jan 2023 - Jul 2025 \| University of Glasgow, School of Psychology and Neuroscience
+-   Scholarships: German Academic Scholarship Foundation (~£18K)
 
 ## Publications
 
@@ -55,14 +59,6 @@ Werner, J., **Kloidt, J.**, & Barsalou, L. (2022). *Assessing individual motivat
 #### 2024
 
 -   Impact Acceleration Account, Medical Research Council (£25,000)
-
-#### 2021
-
--   PhD Scholarship, UK Research and Innovation (£95,000)
-
-#### 2018
-
--   Undergraduate Scholarship, German Scholarship Foundation (€21,000)
 
 ## Selected Presentations
 
