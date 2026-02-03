@@ -1,8 +1,9 @@
 name: Render and Publish Website
 
 on:
+  workflow_dispatch:
   push:
-    branches: [main] # Make sure this matches your branch name (main or master)
+    branches: [main]
 
 jobs:
   build-deploy:
