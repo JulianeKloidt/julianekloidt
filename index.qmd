@@ -6,11 +6,11 @@ title: "Juliane Kloidt"
 
 ### About me
 
-I am a PhD candidate at the [UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents](https://socialcdt.org/students/cohort-3-2021-2025/), based at the [University of Glasgow](https://www.gla.ac.uk/pgrs/julianekloidt/). My PhD project on “Thriving under challenges – establishing individual and situational influences on eustress” is supervised by [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/).
+I completed my PhD in Computer Science and Psychology at the [UKRI Centre for Doctoral Training in Socially Intelligent Artificial Agents](https://socialcdt.org/students/cohort-3-2021-2025/), based at the [University of Glasgow](https://www.gla.ac.uk). My PhD thesis on “Thriving under challenges – establishing individual and situational influences on eustress” was supervised by [Prof. Lawrence Barsalou](https://barsaloulab.org/lab-members/lawrence-barsalou/).
 
-While pursuing my doctoral research, I have gained additional professional experiences:
+My additional professional experiences include:
 
-I work as an independent contractor with [Dr. Sandra Geiger](https://psych.princeton.edu/people/sandra-geiger), at [Princeton University](https://elke-u-weber.com/en/elke-u-weber/labs-and-centers/bspl/) on forecasting the effectiveness of social norm interventions on the support of climate change policies with large language models.
+I work as an independent consultant with [Dr. Sandra Geiger](https://psych.princeton.edu/people/sandra-geiger), at [Princeton University](https://elke-u-weber.com/en/elke-u-weber/labs-and-centers/bspl/) on forecasting the effectiveness of social norm interventions on the support of climate change policies with large language models.
 
 I also work as a research assistant with [Prof. Tim Kaiser](https://sites.google.com/view/timkaiser/home?authuser=0) at the [University of Kaiserslautern-Landau (RPTU)](https://ksw.rptu.de/en/div/business-and-economics/team/professors/prof-dr-tim-kaiser) on establishing effects of behaviour change interventions (health, sustainability, and household finance), synthesising effects of capital vs training interventions on business outcomes, and investigating time preferences.
 
@@ -18,13 +18,16 @@ I enjoyed teaching research methods, coding in R, and psychology classes, for th
 
 ### Interests
 
-Data science \| Generative AI \| Commercialisation \| Stress & Well-being \| Financial Literacy
+Data science \| Generative AI \| Stress & Well-being \| Behavioural Science \| Financial Literacy
 
 ### Technical Skills
 
-**Coding:** R (tidyverse, shiny, quarto) \| Python (numpy, scipy, sklearn)
+**AI & Large Language Models:** Generative AI Architecture, Prompt Engineering, Hugging Face (Transformers, Datasets, Evaluate), Open-source LLMs (Llama-4, Llama-3), OpenAI API, Model Evaluation (Bias, Error, Semantic Alignment).
 
-**Workflows:** GitHub \| Jupyter
+**Data Engineering & Technologies:** Python (NumPy, Pandas, Scikit-learn, SciPy), SQL, R (tidyverse, shiny), Automated Data Pipelines, Data Governance, Version Control (Git/GitHub).
 
-**Generative AI:** OpenAI \| Huggingface
+**Statistical Modelling & Analytics:** Bayesian & Frequentist Inference, Regression, Unsupervised Clustering, Factor Analysis, Meta-Analysis, Experimental Design, A/B Testing, Simulation.
+
+**Software & Delivery:** Agile Methodologies, Requirements Gathering, KPI Definition, Technical Solution Design, Prototype Development.
+
 

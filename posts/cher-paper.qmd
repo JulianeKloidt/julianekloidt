@@ -1,7 +1,7 @@
 ---
 title: "Developing and evaluating the Comprehensive Hierarchical Eustress Review (CHER)"
 author: "Juliane Kloidt"
-date: "09/18/2025"
+date: "01/31/2026"
 categories:
   - Research
 ---
@@ -42,4 +42,8 @@ This research has theoretical, empirical, and interventional implications for fu
 
 -   **It provides actionable tools for applied settings.** Practitioners seeking to foster positive responses to challenge—in workplaces, schools, sports, or therapy—can use CHER profiles and subscale scores to tailor strategies to individuals’ needs.
 
-**Want to know more?** [Slides](Juliane-Kloidt-UKSBM-2025-Slides.pdf) \| [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7311063202564300800/) \| [Preprint](https://osf.io/preprints/psyarxiv/3wmhs_v1)
+#### Reference
+
+Kloidt, J., & Barsalou, L.W. (2026). **Developing and Evaluating the Comprehensive Hierarchical Eustress Review (CHER)**. Journal of Happiness Studies, *27*. <https://doi.org/10.1007/s12144-024-06750-7>
+
+**Want to know more?** [Slides](Juliane-Kloidt-UKSBM-2025-Slides.pdf) \| [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7311063202564300800/) \| [Open-Access Paper](https://link.springer.com/article/10.1007/s10902-025-00999-w)
