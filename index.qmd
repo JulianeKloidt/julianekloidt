@@ -1,5 +1,8 @@
 ---
 title: "Juliane Kloidt"
+format: 
+  html:
+    self-contained: true
 ---
 
 ![](JulianeKloidt.png){.lightbox}
